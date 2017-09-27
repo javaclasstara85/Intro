@@ -9,7 +9,7 @@ public class Calculator {
 		static int calculateSum (int a,int b) {
 			return b;
 		
-					
+				
 		
 	}
 
